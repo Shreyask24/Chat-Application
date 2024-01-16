@@ -1,4 +1,3 @@
-
 import "../App.css";
 
 const TheirMessage = ({ lastMessage, message }) => {
