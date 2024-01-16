@@ -38,5 +38,5 @@ git clone https://github.com/Shreyask24/Chat-Application.git
 
 cd client
 npm install
-npm start;
+npm start
 
