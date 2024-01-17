@@ -301,3 +301,31 @@
     text-align: center;
     margin-top: 20px;
 }
+
+
+
+.logout-btn {
+    position: relative;
+    background: rgba(117, 84, 160, 1);
+    color: white;
+    padding: 0.5em 1.1em;
+    font-size: 18px;
+    border: 2px solid rgba(0, 0, 0, 0.455);
+    border-radius: 0.4em;
+    box-shadow: 0.1em 0.1em;
+    cursor: pointer;
+    float: right;
+    margin-top: -7vh;
+    margin-right: 6vh;
+}
+
+.logout-btn:hover {
+    transform: translate(-0.05em, -0.05em);
+    box-shadow: 0.15em 0.15em;
+    background-color: rgba(117, 84, 160, 0.701);
+}
+
+.logout-btn:active {
+    transform: translate(0.05em, 0.05em);
+    box-shadow: 0.05em 0.05em;
+}
